@@ -20,8 +20,7 @@ Bowa Web Automation
 
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
-
+Async web automation framework built on top of aiottp.
 
 * Free software: MIT license
 * Documentation: https://bowa.readthedocs.io.
